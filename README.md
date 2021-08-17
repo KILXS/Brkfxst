@@ -1,2 +1,2 @@
 # Brkfxst
-I hate programming
+I hate Coding
